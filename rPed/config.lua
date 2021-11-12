@@ -55,7 +55,6 @@ Config = {
         ["Business"] = "a_f_m_business_02",
         ["DownTown"] = "a_f_m_downtown_01",
         ["Eastsa"] = "a_f_m_eatsa_01",
-        ["Eastsa2"] = "a_f_m_eatsa_02",
         ["FatBlack"] = "a_f_m_fatbla_01",
         ["FatWhite"] = "a_f_m_fatwhite_01",
         ["FatCult"] = "a_f_m_fatcult_01",
