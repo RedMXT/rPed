@@ -1,0 +1,1 @@
+ALTER TABLE `users` ADD `pedmenu` VARCHAR(6) NOT NULL DEFAULT 'false';
